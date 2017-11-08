@@ -5,5 +5,5 @@ Here is my submission for the Traffic Sign Recognition Project part of Udacity's
 
 Please refer to the following files:
 
-- *writeup_template.md* contains the project report
-- *Traffic_Sign_Classifier.ipynb* contains the project code
+- [Report](https://github.com/ysriram1/CarND-Traffic-Sign-Classifier-Project/blob/master/writeup_template.md) contains the project report
+- [Code](https://github.com/ysriram1/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb) contains the project code
